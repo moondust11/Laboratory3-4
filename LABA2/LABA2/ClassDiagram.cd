@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="good" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAYgAAAAAIAAAAEQAQAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="product" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAgAAAAAARAQAQAAAAAAAAAAAAQAAgAAAAQA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="cake" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAgAAAAAAAAAQAQAAAAAAEAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inspector" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Curator" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="candys" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAAAAAAAAEAAAQAQAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="watch" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACAAAAAAAAAQAQAAAAAAAAAAAAAAAABAIAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="flowers" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAAAAAAAAQAQAQAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bouquet" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAABAwAQAAAAAAAAAAAAAAAAAAEACA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Printer" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
